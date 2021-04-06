@@ -1,5 +1,4 @@
 
-
 [![](https://komarev.com/ghpvc/?username=markoDenic&color=blue&label=Profile%20Views)](https://github.com/navyadevineni/navya)
 
 
