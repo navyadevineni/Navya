@@ -1,5 +1,5 @@
 
-[![](https://komarev.com/ghpvc/?username=navyadevineni&color=blue&label=Profile%20Views)](https://github.com/navyadevineni/navya)
+
 
 
 # Hi! 👋 I'm Navya Devineni 💻
