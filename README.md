@@ -2,7 +2,7 @@
 
 
 
-# Hi! 👋 I'm Navya Devineni 💻
+# Hi! 👋 I'm Navya Devineni :woman_office_worker:
 
 ## Welcome! :partying_face:
 
